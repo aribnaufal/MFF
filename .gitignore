@@ -1,0 +1,11 @@
+# Local preview files
+preview/
+.vercel/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and local tooling
+*.log
+node_modules/
